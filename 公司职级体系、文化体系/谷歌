@@ -1,0 +1,66 @@
+
+
+一、谷歌职级
+
+3级，干好明确的事情；通常拥有硕士学位，达到4级需要几年时间，或有博士学位；
+4级，可以被信任相对独立，主管只需要关键时点帮忙；
+5级，高级工程师，通常需要完成十分复杂的工作，可以管理小团队的技术领导，至少在自己领域被认为是专家，还可以代表团队与其他团队协调工作。大多数晋升都停滞在第5级。
+6级工程师，主管工程师，通常带领整个团队，并找到团队下一步发展方向。衡量他们的标准是他们对公司发展产生的影响。前10％——能力强到他们可以被归为项目成功的主因；
+7级，是拥有相当成绩的6级。
+8级，首席工程师与主要产品或一些基础设施相关联，
+9级，杰出工程师令人景仰。
+10级，谷歌院士，一种终身荣誉，通常是各自领域的世界领先专家。
+11级，Jeff和Sanjay是谷歌高级研究员——该公司有史以来也是唯一的11级。
+
+2021-10-27
+
+1.    you are unfamiliar with the subject area.
+2.    you can read / understand the most fundamental aspects of the subject area.
+3.    ability to implement small changes, understand basic principles and able to figure out additional details with minimal help.
+4.    basic proficiency in a subject area without relying on help.
+5.    you are comfortable with the subject area and all routine work on it:For software areas - ability to develop medium programs using all basic language features w/o book, awareness of more esoteric features (with book).For systems areas - understanding of many fundamentals of networking and systems administration, ability to run a small network of systems including recovery, debugging and nontrivial troubleshooting that relies on the knowledge of internals.
+6.    an even lower degree of reliance on reference materials. Deeper skills in a field or specific technology in the subject area.
+7.    ability to develop large programs and systems from scratch. Understanding of low level details and internals. Ability to design / deploy most large, distributed systems from scratch.
+8.    you understand and make use of most lesser known language features, technologies, and associated internals. Ability to automate significant amounts of systems administration.
+9.    deep understanding of corner cases, esoteric features, protocols and systems including "theory of operation". Demonstrated ability to design, deploy and own very critical or large infrastructure, build accompanying automation.
+10.    could have written the book about the subject area but didn't; works with standards committees on defining new standards and methodologies.
+11.    wrote the book on the subject area (there actually has to be a book). Recognized industry expert in the field, might have invented it.
+
+
+二、谷歌价值观
+
+谷歌的价值观可以简单概括为：以用户为中心，其他一切水到渠成；心无旁骛、精益求精；快比慢好；网络的民主作风；获取信息的方式多种多样，不必非要坐在台式机前；不做坏事也能赚钱；信息永无止境；信息需求，没有国界；没有西装革履也可以很正经；没有最好，只有更好。  
+
+谷歌人力资源体系包含六大模块，分别是：年度绩效评估、月度绩效回顾、年度敬业度调查、年度经理人反馈、目标设定OKRs以及优秀人才奖励制度。
+
+Google绩效考核体系（Google工作业绩效考核体系）是由五个重要部分构成的连续过程，这五个部分分别是：目标设定、自我评估、同事评估、校准会议、绩效面谈。五者之间彼此之间存在密切联系，其中任何一环节在执行上出现问题都会对整个业绩考核体系带来负面的影响。
+
+谷歌能力评估标准包含六个方面，分别是谷歌人、解决问题、执行力、思想领导力、新兴领导力、存在感。
+
+三、绩效评估办法GRAD
+
+真正的绩效评估会在每半年公司会对全体员工进行一次，主要是 review（复核）员工过去半年的业绩，并根据评估的结果变更 Job Ladder（业务职级）和薪酬。
+
+同事考核是获得该员工团队合作的绩效方面的第一手资料，同事考核维度主要包含：五项核心能力的考评、具体项目贡献的考评、优缺点等
+
+Google绩效校准会议
+
+谷歌现在用的绩效考评体系等级是五级考评，从低级到高级依次是：需要改进、一贯符合预期、超过预期、超过预期很多、杰出。谷歌的五级考评并非真正意义上的强制分布，它的考评等级最低档是需要改进，其余四个档次都是表现比较好的。考评体系主要倾向于激励、鼓励员工。
+
+当经理对员工的五级评估确定之后，每个经理需要把自己考核的结果，送到一个会议上，这个会议叫校准会议。谷歌绩效校准会议通常是几个经理坐在一起，向老板进行阐述给员工不同评估等级的原因，员工杰出的地方是哪里、优秀的事情有哪些。假设A经理对下属某员工的评估等级进行阐述后，B经理或其他经理需要给反馈，表明同意与否的观点并说明理由。作为经理不仅需要向上司也需要向他同级的经理说明他对员工评估的准确度。
+
+绩效校准会议结束之后，在公司层面，意味着公司审核批准了每个员工的考核结果，接下来的事情是经理要把考核结果跟员工进行面谈。在谷歌绩效面谈中分为两次面谈，第一次是绩效结果面谈，侧重员工的职业发展；第二次是加薪和晋级面谈。因为在谷歌公司看来一个过于关注薪资和晋升的员工，未必是个好员工，所以他们把这两个分开来谈。两次面谈时间间隔为一个月左右。
+
+四、谷歌OKRs体系
+Google目标设定OKRs的执行程序包含有：设定目标、形成目标系统、考核打分、评分公开的流程。
+
+谷歌的目标设定需要公司所有员工参与，彼此之间要相互支持，相互配合。目标要有年度OKRs，也有季度OKRs。季度OKRs一旦确定就不会轻易改变，年度OKRs统领全年，但并非固定不变，可以在财经年度过程中进行调整。
+O与KR最好不超过3个，聚焦。
+
+每个员工在每个季度初需要确定自己本季度的OKRs，在一个季度结束后需要根据自己这个季度的工作完成情况给OKRs打分。OKRs打分跟最后年度的绩效等级没有直接关系，另外OKRs的打分也不跟奖金挂钩、不跟年薪挂钩、不跟很多的考核福利挂钩。这个打分其实是让经理更清楚的员工的工作能力，以及工作的一个状态。
+
+
+p.s.
+谷歌人力资源体系PPT https://www.shangyexinzhi.com/article/4740273.html
+
+
